@@ -6,7 +6,7 @@
 |**NIM** | 312310594 |
 |**Kelas** | TI.23.A6 |
 |**Mata Kuliah** | Pemrograman |
-|**Link Penjelasan** |              |
+|**Link Penjelasan** |     https://youtu.be/wSqL-iuBYcU?feature=shared         |
 
 # Project UAS
 
